@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<course>
+ <id>{cc84197f-b998-4d9f-b0b0-ebd4922ed4c1}</id>
+ <title>Git</title>
+ <description></description>
+ <keyboardLayout>us</keyboardLayout>
+ <lessons>
+  <lesson>
+   <id>{fc9a2dae-6d76-46eb-9676-a5a3f3c5b73f}</id>
+   <title>Base</title>
+   <newCharacters></newCharacters>
+   <text>git branch git checkout git push git pull origin
+git status git pull git checkout -b git add . 
+git push git commit -m "feature" git push origin 
+git add . git merge git checkout -b 
+git status feature pull git commit -a -m "feature" 
+git add . git status git pull origin master git checkout -b 
+git push git status git commit -a -m "feature" 
+git status git merge git branch -b "feature"</text>
+  </lesson>
+ </lessons>
+</course>
